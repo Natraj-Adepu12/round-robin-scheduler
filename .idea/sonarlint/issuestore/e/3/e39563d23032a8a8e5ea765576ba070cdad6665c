@@ -1,0 +1,24 @@
+
+]
+java:S1659"HDeclare "arrivalTime" and all following declarations on a separate line.(«K
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘
+=
+java:S1659""'Declare "completed" on a separate line.(Äíˆ‹
+;
+java:S1659H"%Declare "totalWT" on a separate line.(Ïé§
+@	java:S106"+Replace this use of System.out by a logger.(şø•ó
+@	java:S106"+Replace this use of System.out by a logger.(íÎšÿ
+E	java:S106"+Replace this use of System.out by a logger.(ãÙµÙûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ôç¿¾
+E	java:S106I"+Replace this use of System.out by a logger.(Â‰‡ôÿÿÿÿÿ
+f
+java:S3457M"Q%n should be used in place of \n to produce the platform-specific line separator.(øñ£v
+?	java:S106M"+Replace this use of System.out by a logger.(øñ£v
+E	java:S106Q"+Replace this use of System.out by a logger.(·—Úâÿÿÿÿÿ
+l
+java:S3457R"Q%n should be used in place of \n to produce the platform-specific line separator.(‰áøÄÿÿÿÿÿ
+E	java:S106R"+Replace this use of System.out by a logger.(‰áøÄÿÿÿÿÿ
+g
+java:S3457S"Q%n should be used in place of \n to produce the platform-specific line separator.(Ø¨ÈÀ
+@	java:S106S"+Replace this use of System.out by a logger.(Ø¨ÈÀ
